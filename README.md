@@ -4,7 +4,7 @@ A simple polling system api where anyone can create questions with options and c
 
 ## Web App Link
 
-https://polling-system-api-anmol.herokuapp.com/
+https://system-polling.onrender.com
 
 ## Requirements
 
