@@ -1,7 +1,7 @@
 // configuration for creating database connection
 const mongoose = require('mongoose');
 
-mongoose.connect(`mongodb+srv://test:test123@cluster0.fp1yuey.mongodb.net/test`);
+mongoose.connect(`mongodb+srv://shreyashwaghmare0501:sS568LhHAgSLPOeD@cluster1.aw56i7y.mongodb.net/test`);
 
 const db = mongoose.connection;
 
